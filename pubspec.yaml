@@ -1,0 +1,66 @@
+name: adsapp
+description: A new Flutter application.
+
+version: 1.0.0+14
+
+environment:
+  #sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.5.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker:
+  url_launcher: ^5.4.2
+  http: ^0.12.0+4
+  carousel_slider: ^1.4.1
+  #getflutter: ^1.0.11
+  firebase_admob:
+  connectivity: ^0.4.8+2
+  firebase_auth:
+
+  cupertino_icons: ^0.1.2
+  share:
+  fluttertoast: ^4.0.1
+  #image_picker_saver: ^0.3.0
+  #esys_flutter_share: ^1.0.2
+  #expand_widget: ^0.2.0+2
+  firebase_messaging: ^6.0.16
+
+
+
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+   - images/
+
+
+  fonts:
+    - family: Tajawal
+      fonts:
+        - asset: fonts/Tajawal-Regular.ttf
+        - asset: fonts/Tajawal-Bold.ttf
+         # style: Bold
+        - asset: fonts/Tajawal-Light.ttf
+        - asset: fonts/Tajawal-Medium.ttf
+        - asset: fonts/Tajawal-Black.ttf
+          weight: 700
+
+    - family: SourceSansPro
+      fonts:
+        - asset: fonts/SourceSansPro-Regular.ttf
+        - asset: fonts/SourceSansPro-Italic.ttf
+        - asset: fonts/SourceSansPro-Bold.ttf

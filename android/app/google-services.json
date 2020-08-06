@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "695308945519",
+    "firebase_url": "https://reyhanli-ads.firebaseio.com",
+    "project_id": "reyhanli-ads",
+    "storage_bucket": "reyhanli-ads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695308945519:android:7a216edbd186bd8f62259a",
+        "android_client_info": {
+          "package_name": "com.hardpro.adsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695308945519-r7ltkmck8npnnf4srs43h61deuuu1lp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCimmLVok1DmCjmQspnoOGzv8PHb0k8Jeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695308945519-r7ltkmck8npnnf4srs43h61deuuu1lp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
